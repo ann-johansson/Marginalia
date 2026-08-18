@@ -1,2 +1,8 @@
 <Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Marginalia.Api/Marginalia.Api.csproj" />
+    <Project Path="src/Marginalia.Application/Marginalia.Application.csproj" />
+    <Project Path="src/Marginalia.Domain/Marginalia.Domain.csproj" />
+    <Project Path="src/Marginalia.Infrastructure/Marginalia.Infrastructure.csproj" />
+  </Folder>
 </Solution>
